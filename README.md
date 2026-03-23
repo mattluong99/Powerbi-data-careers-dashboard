@@ -21,7 +21,7 @@ To explore key factors influencing careers in data and present insights through 
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images-dashboard-preview.png)
+![Dashboard](image-dashboard-preview.PNG)
 
 ## Key Insights
 
