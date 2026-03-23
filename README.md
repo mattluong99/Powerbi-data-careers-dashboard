@@ -18,11 +18,6 @@ To explore key factors influencing careers in data and present insights through 
 * Power BI (Data Visualization)
 * Power Query (Data Cleaning)
 
-
-## 📷 Dashboard Preview
-
-![Dashboard](image-dashboard-preview.PNG)
-
 ## Key Insights
 
 * Data Scientists have the highest average salaries
